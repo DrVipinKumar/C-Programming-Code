@@ -1,2 +1,2 @@
 # C-Programming-Code
-These C program is for KIET MCA I C 
+All above C Programs are for KIET MCA I C Section Student.

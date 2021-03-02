@@ -1,0 +1,2 @@
+this is my data to be writed in file using fputs functions.
+this is my data to be writed in file using fputs functions.
